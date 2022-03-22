@@ -1,11 +1,10 @@
-# Parallax
-Project testing Parallax
+# Finans
+Project Website Home page
 
 ## Table of contents
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Built with](#built-with)
   - [Live Page](#LivePage)
 - [Author](#author)
@@ -16,19 +15,19 @@ Project testing Parallax
 
 Users should be able to:
 
-* Scrow the Website and see the pictures;
+* View the template;
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/AlanDavid-007/Parallax)
+- Solution URL: [GitHub](https://github.com/AlanDavid-007/Finans)
 
 ### Built with
 
 - HTML5
-- CSS
+- CSS3
 
 ## LivePage
-- https://alandavid-007.github.io/Parallax/
+- https://alandavid-007.github.io/Finans/
 ## Author
 
 - Frontend Mentor - [#MyProfile](https://www.frontendmentor.io/profile/AlanDavid-007)
